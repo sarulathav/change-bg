@@ -1,0 +1,52 @@
+
+body {
+    background: #e969de;
+}
+  
+h1 {
+    color:#141316;
+}
+  
+div {
+    width:25%;
+    height: 50px;
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+    background: white;
+}
+  
+#color1 {
+    flex: 1;
+    background:#5c6bc0;
+    color:#5c6bc0;
+}
+  
+#color2 {
+    flex: 1;
+    background: #297a36;
+    color: #297a36;
+}
+  
+#color3 {
+    flex: 1;
+    background: #B1FB17;
+    color: #B1FB17;
+}
+  
+#color4 {
+    flex: 1;
+    background: #78e08f;
+    color: #78e08f;
+}
+  
+#color5 {
+    flex: 1;
+    background: #fd79a8;
+    color: #fd79a8;
+}
+#color6 {
+    flex: 1;
+    background: #ec407a;
+    color: #ec407a;
+}
